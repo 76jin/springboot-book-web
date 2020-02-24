@@ -61,4 +61,5 @@ build/
 /.idea/
 /.idea/workspace.xml
 .idea/workspace.xml
-˚
+.gradle
+/.gradle/
